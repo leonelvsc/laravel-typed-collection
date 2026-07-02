@@ -27,7 +27,7 @@
   ],
   "suggest": {
     "ramsey/uuid": "^4.2.2",
-    "symfony/uid": "^5.1|^6.3|^7"
+    "symfony/uid": "^5.1|^6.3|^7|^8"
   },
   "require": {
     "php": "^8.1",
@@ -35,12 +35,12 @@
   },
   "require-dev": {
     "calebporzio/sushi": "^2.4",
-    "orchestra/testbench": "^8|^9|^10",
-    "pestphp/pest": "^2.0",
-    "phpstan/phpstan": "^1.4",
-    "phpunit/phpunit": "^9.6.6|^10|^11",
+    "orchestra/testbench": "^8|^9|^10|^11",
+    "pestphp/pest": "^2.0|^3.0|^4.0",
+    "phpstan/phpstan": "^1.4|^2.0",
+    "phpunit/phpunit": "^9.6.6|^10|^11.5.50|^12.5.8|^13",
     "ramsey/uuid": "^4.2.2",
-    "symfony/uid": "^5.1|^6.3|^7"
+    "symfony/uid": "^5.1|^6.3|^7|^8"
   },
   "autoload": {
     "psr-4": {
